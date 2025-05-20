@@ -1,7 +1,4 @@
 # Sales Analysis using MySQL
-Here’s a concise, professional README outline written with the clarity and authority of a seasoned (10‑year) data professional:
-
----
 
 ## Objective
 
